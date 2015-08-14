@@ -1,0 +1,99 @@
+/*
+Theme Name: Hannari Blue
+Author: PWT
+Theme URI: http://www.pwtthemes.com/theme/hannari-free-responsive-wordpress-theme
+Author URI: http://www.stefanciobanu.com
+Template: hannari
+Description: Hannari Blue is a child theme for the Hannari theme. Hannari is a fully responsive, flexible, simple and beautiful. This theme have a really cool and a lot of theme options, possibility of creating multiple sidebar
+Version: 1.0.3
+Tags: blue, black, white, light, one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, responsive-layout, custom-menu, custom-background, editor-style, featured-images, full-width-template, theme-options, threaded-comments, sticky-post
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+th {
+    background: none repeat scroll 0 0 #6ab2e2;
+}
+abbr, acronym, dfn {
+    border-bottom: 1px dotted #6ab2e2;
+}
+h1 span, h1 a span{
+	color:#6ab2e2
+}
+h4 span{
+	color:#6ab2e2;
+}
+.readmore  {	
+	color:#6ab2e2;
+}
+.menu .current-menu-item > a, .menu a:hover, .menu a.hover{
+	color:#6ab2e2
+} 
+.menu_mobile a:hover{
+	color: #6ab2e2;
+}
+.widget .searchform #searchsubmit {
+    background-color: #6ab2e2;
+}
+#footer .searchform #searchsubmit {
+    background-color: #6ab2e2;
+}
+.su-heading-style-1 .su-heading-shell{
+    border-bottom: 2px solid #6ab2e2;
+    border-top: 2px solid #6ab2e2;
+}
+.su-tabs-style-1 .su-tabs-nav {
+    background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-tabs-style-1 .su-tabs-pane {
+    border-bottom: 5px solid #6ab2e2;
+    border-left: 5px solid #6ab2e2;
+    border-right: 5px solid #6ab2e2;
+}
+.su-tabs-style-3{
+    border: 5px solid #6ab2e2;
+}
+.su-tabs-style-3 .su-tabs-nav span{
+	background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-tabs-style-3 .su-tabs-nav .su-tabs-current{
+	background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-spoiler-style-2 .su-spoiler-title {
+    background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-accordion .su-spoiler-title {
+    background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-pullquote-style-1 {
+    border-left: 5px solid #6ab2e2;
+}
+.su-dropcap-style-1 {
+    background: none repeat scroll 0 0 #6ab2e2;
+}
+.su-dropcap-style-2 {
+	color:#6ab2e2;	
+}
+.su-table-style-1 .su-even td {
+    background: none repeat scroll 0 0 #6ab2e2 !important;
+}
+.su-table-style-2 .su-even td {
+    background: none repeat scroll 0 0 #6ab2e2 !important;
+}
+.wp-pagenavi a:hover {
+    background: none repeat scroll 0 0 #6ab2e2;
+    border: 1px solid #6ab2e2!important;
+}
+.wp-pagenavi span.current {
+    background: none repeat scroll 0 0 #6ab2e2;
+    border: 1px solid #6ab2e2!important;
+}
+.template_paginated a span {
+    color: #6ab2e2 !important;
+}
+.template_paginated a span:hover {
+    background: none repeat scroll 0 0 #6ab2e2 !important;
+}
+#eemail_txt_Button {
+    background-color: #6ab2e2;
+}
